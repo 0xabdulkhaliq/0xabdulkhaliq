@@ -2,6 +2,7 @@
 <h4 align="center">A passionate active learner from India</h4>
 
 <hr>
+
 - 🌱 I’m currently learning **Front-End Development**
 
 <!--- - 👨‍💻 All of my projects are available at [0xAbdulKhalid.ml/projects](0xAbdulKhalid.ml/projects) -->
