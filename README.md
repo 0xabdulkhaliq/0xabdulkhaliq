@@ -106,7 +106,7 @@
 <div align='right'>
 
 <a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 
 <br>
@@ -119,12 +119,6 @@
 
 <a href="https://twitter.com/0xabdulkhalid" target="_blank">
 <img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-
-<br>
-
-<a href="https://www.instagram.com/0xabdulkhalid/" target="_blank">
-<img src="https://img.shields.io/badge/instagram:  0xabdulkhalid-%ff5851db.svg?color=f02b9a&style=for-the-badge&logo=instagram&logoColor=white" t=instagram style="margin-bottom: 5px;" />
 </a>
 
 <br>
