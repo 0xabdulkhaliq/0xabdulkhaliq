@@ -103,29 +103,33 @@
 
 ## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
 <br>
-<div align='right'>
+<div align='left'>
 
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
+<ul>
 
-<br>
-
+<li>
 <a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
+</li>
 
 <br>
 
+<li>
 <a href="https://twitter.com/0xabdulkhalid" target="_blank">
 <img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
+</li>
 
 <br>
 
-<a href="https://www.github.con/0xabdulkhalid/" target="_blank">
-<img src="https://img.shields.io/badge/github:  0xabdulkhalid-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" t=instagram style="margin-bottom: 5px;" />
+<li>
+<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
+</li>
+	
+</ul>
 </div>
 
 <br>
@@ -136,7 +140,7 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...&hearts;</b>
+## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
 
 </div>
 <br>
